@@ -2,7 +2,7 @@
   <img src="https://wallpapercave.com/dwp2x/71IW48O.jpg" height="400px" width=auto/>
 </div>
 <h1 align="center">Hi 👋, I'm Kunal Thite</h1>
-<h3 align="center">Tech Enhthusiast and Learner</h3>
+<h3 align="center">Tech Enthusiast and Learner</h3>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
