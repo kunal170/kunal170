@@ -1,5 +1,5 @@
 <div  align="center">
-  <img src="https://wallpapercave.com/dwp2x/71IW48O.jpg" height="300px" width="100%"/>
+  <img src="https://wallpapercave.com/dwp2x/71IW48O.jpg" height="500px" width="100%"/>
 </div>
 <h1 align="center">Hi 👋, I'm Kunal Thite</h1>
 <h3 align="center">Tech Enthusiast and Learner</h3>
